@@ -1,1 +1,1 @@
-# Identify-Characters-from-Product-Images-CrowdANALYTIX-
+# Identify Characters from Product Images(CrowdANALYTIX)
