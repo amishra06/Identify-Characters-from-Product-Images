@@ -1,5 +1,5 @@
 # Identify Characters from Product Images(CrowdANALYTIX)
-## Objective
+## Problem Statement
 Identify the “characters” from each image from a list of  42 possible characters:
 
 Angry Birds, Baloo, Bart simpson, Ben, Bulbasaur, Charizard, Charlie brown, Charmender, Chicken_little, Cinderella, Darth_vader, Disney_princes, Donald_duck, Godzilla, Goku, Goofy, Han-solo, Harry_potter, Hellokitty, Itachi, John_Cena, Jojosiwa, Kakashi, Marilyn_monroe, Mickey_mouse, Minions, Naruto, Pikachu, Pokemon, Popeye, Power_rangers, R2-D2, Roman_reigns, Scoopy Doo, SpongeBob, SquarePants, Squirtle, Teenage_mutant_ninja_turtles, Tom and Jerry, Toy_story_characters, Vampirina, Vegeta, Winnie the poo
