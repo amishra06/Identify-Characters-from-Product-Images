@@ -20,7 +20,8 @@ To work with fastai's data block api we need to create validation set also. For 
   * Created databunch using fastai data block api.
   * Created the CNN learner with transfer learning using resnet50.
   * Trained data with discriminative learning rate
-  * Going for 15 iterations for both before and after unfreeze.
+  * First trained with size of 128 and then for size of 256
   
   ## Result
-  Currently on 15th position with accuracy of 0.86406
+  * Public Leaderboard - 0.86406  
+  * Private leaderboard - 
